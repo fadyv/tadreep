@@ -1,0 +1,115 @@
+{
+  "Header": {
+   "Home":"Home",
+   "Instructors":"Instructors",
+   "Offers":"Offers",
+   "BecomeInstructor":"Become Instructor",
+   "SignIn":"Sign in",
+   "SignUp":"Sign up"
+
+  },
+   "footer": {
+    "company": {
+      "title": "Tadreeb",
+      "description": "Your trusted platform for finding the best instructors and achieving your learning goals."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "instructors": "Instructors",
+      "offers": "Offers",
+      "login": "Login",
+      "register": "Register"
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "email": "info@tadreeb.com",
+      "phone": "01224901699",
+      "location": "Cairo, Egypt"
+    },
+    "copyright": "© 2024 Tadreeb. All rights reserved."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "keepSignedIn": "Keep me Signed in",
+    "Signin": "Sign In",
+    "forgotPassword": "Forgot your Password?",
+    "resetPassword": "Reset Password",
+    "noAccount": "Don’t have an account yet?",
+    "register": "Register",
+    "arName": "Arabic Name",
+    "enName": "English Name",
+    "date": "Birth Date",
+    "state": "State",
+    "tranier": "Trainer",
+    "tranie": "Trainee",
+    "address": "Address",
+    "nationality": "Nationality",
+    "mobileNumber": "Mobile Number",
+    "confirmPassword": "Confirm Password",
+    "accepttermsandCondations": "I accept the terms and conditions",
+    "haveAccount?": "Already have an account?",
+    "next": "Next",
+    "previous": "Previous",
+    "SignUp": "Sign Up",
+    "upload": "Upload",
+    "createAccount": "Create Account",
+    "joinText": "Join Tadreeb and start your learning journey"
+  },
+  "home": {
+    "BrowseInstructor": "Browse Instructors",
+    "GetStarted": "Get Started",
+   "slider":"Find Your Perfect Instructor",
+    "services": {
+      "title": "Why Choose Tadreeb?",
+      "description": "Everything you need to succeed in your learning journey",
+      "verifiedInstructors": {
+        "title": "Verified Instructors",
+        "description": "All our instructors are thoroughly vetted and certified professionals with proven track records."
+      },
+      "flexibleScheduling": {
+        "title": "Flexible Scheduling",
+        "description": "Book lessons at times that work for you. Easy rescheduling and cancellation options available."
+      },
+      "trackProgress": {
+        "title": "Track Progress",
+        "description": "Monitor your learning journey with detailed progress tracking and performance analytics."
+      }
+    },
+    "popularInstructors": {
+      "title": "Popular Instructors",
+      "viewAll": "View all"
+    },
+    "counters": {
+      "Instructors": "Instructors",
+      "Students": "Students",
+      "LessonsCompleted": "Lessons Completed",
+      "AverageRating": "Average Rating"
+    },
+    "joinUs": {
+      "title": "Ready to Start Learning?",
+      "description": "Join thousands of students who have improved their skills with Tadreeb. Sign up today and get your first lesson!",
+      "createAccount": "Create Account",
+      "features": {
+        "verifiedInstructors": "Verified Instructors",
+        "flexibleHours": "Flexible Hours",
+        "affordablePrices": "Affordable Prices",
+        "support": "24/7 Support"
+      }
+    }
+  },
+  "instructor":{
+    "reviews":"reviews",
+    "exp" : "years exp",
+    "viewDetails":"View Details"
+  },
+   
+  "offers": {
+    "off": "OFF",
+    "lessons": "Lessons",
+    "lesson": "h / lesson",
+    "bookNow": "Book Now"
+  }
+}
+

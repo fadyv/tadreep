@@ -1,0 +1,113 @@
+{
+  "Header": {
+   "Home":"الرئيسيه",
+   "Instructors":"المدربين",
+   "Offers":"العروض",
+   "BecomeInstructor":"كن مدربا",
+   "SignIn":"تسجيل الدخول",
+   "SignUp":"تسجيل حساب"
+  },
+  "footer": {
+    "company": {
+      "title": "تدريب",
+      "description": "منصتك الموثوقة للعثور على أفضل المعلمين وتحقيق أهدافك التعليمية."
+    },
+    "quickLinks": {
+      "title": "روابط سريعة",
+      "home": "الرئيسية",
+      "instructors": "المعلمين",
+      "offers": "العروض",
+      "login": "تسجيل الدخول",
+      "register": "تسجيل"
+    },
+    "contactUs": {
+      "title": "تواصل معنا",
+      "email": "info@tadreeb.com",
+      "phone": "01224901699",
+      "location": "القاهرة، مصر"
+    },
+    "copyright": "© 2024 تدريب. جميع الحقوق محفوظة."
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "keepSignedIn": "حافظ على تسجيل الدخول",
+    "Signin": "تسجيل الدخول",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "noAccount": "ليس لديك حساب حتى الآن؟",
+    "register": "تسجيل",
+     "arName": "الاسم باللغة العربية",
+    "enName": "الاسم باللغة الإنجليزية",
+    "date": "تاريخ الميلاد",
+    "state": "الحالة",
+    "tranier": "مدرب",
+    "tranie": "متدرب",
+    "address": "العنوان",
+    "nationality": "الجنسية",
+    "mobileNumber": "رقم الموبايل",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "accepttermsandCondations": "أوافق على الشروط والأحكام",
+    "haveAccount?": "لديك حساب بالفعل؟",
+    "next": "التالي",
+    "previous": "السابق",
+    "SignUp": "إنشاء حساب",
+    "upload": "رفع صورة",
+    "createAccount": "إنشاء حساب",
+    "joinText": "انضم إلى تدريب وابدأ رحلتك التعليمية"
+  },
+  "home": {
+    "BrowseInstructor": "تصفح المعلمين",
+    "GetStarted": "ابدأ الآن",
+   "slider":"اعثر على مدربك المثالي",
+
+    "services": {
+      "title": "لماذا تختار تدريب؟",
+      "description": "كل ما تحتاجه للنجاح في رحلتك التعليمية",
+      "verifiedInstructors": {
+        "title": "معلمون موثوقون",
+        "description": "جميع معلمينا تم التحقق منهم وشهاداتهم معتمدة، ولديهم سجل حافل من الخبرة."
+      },
+      "flexibleScheduling": {
+        "title": "جدولة مرنة",
+        "description": "احجز الدروس في الأوقات التي تناسبك. خيارات إعادة الجدولة والإلغاء متاحة بسهولة."
+      },
+      "trackProgress": {
+        "title": "تتبع التقدم",
+        "description": "راقب رحلتك التعليمية مع تتبع تفصيلي للتقدم وتحليل الأداء."
+      }
+    },
+    "popularInstructors": {
+      "title": "المعلمين الشائعين",
+      "viewAll": "عرض الكل"
+    },
+    "counters": {
+      "Instructors": "المعلمين",
+      "Students": "الطلاب",
+      "LessonsCompleted": "الدروس المكتملة",
+      "AverageRating": "متوسط التقييم"
+    },
+    "joinUs": {
+      "title": "جاهز للبدء في التعلم؟",
+      "description": "انضم إلى آلاف الطلاب الذين حسّنوا مهاراتهم مع تدريب. سجل الآن واحصل على أول درس لك!",
+      "createAccount": "إنشاء حساب",
+      "features": {
+        "verifiedInstructors": "معلمون موثوقون",
+        "flexibleHours": "ساعات مرنة",
+        "affordablePrices": "أسعار مناسبة",
+        "support": "دعم 24/7"
+      }
+    }
+  },
+   "instructor": {
+    "reviews": "التقييمات",
+    "exp": "سنوات الخبرة",
+    "viewDetails": "عرض التفاصيل"
+  },
+   "offers": {
+    "off": "خصم",
+    "lessons": "عدد الدروس",
+    "lesson": "ساعه / الدرس",
+    "bookNow": "احجز الآن"
+  }
+}
